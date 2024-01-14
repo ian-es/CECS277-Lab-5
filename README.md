@@ -3,7 +3,7 @@ Java Composition
 
 CECS 277 Lab 5 Spring 2022
 
-Ian Escalante, Julio Calderone
+Ian Escalante, Julio Calderon
 
 ## Yahtzee
 Using the following class diagram:
